@@ -1,12 +1,12 @@
 **API DotNet Core**
 ===
-*Após o `git clone`, é necessário navegar para dentro do diretório e 
-utilizar o comando `dotnet run`*
----
-O End Point é `localhost:5000/promotion`
-Metodo -> `GET`
----
+Após o `git clone`, é necessário navegar para dentro do diretório e 
+utilizar o comando `dotnet run`
+
+O End Point é um GET e sua rota é `http://localhost:5000/api/promotion`
+
 Exemplo do JSON para utilizar
+
 `
 {
  "_id": "5d8a8bb3751cbf9ce00b5b6d",
